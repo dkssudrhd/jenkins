@@ -4,7 +4,7 @@ FROM eclipse-temurin:21-jre
 
 WORKDIR /test
 
-COPY target/0.0.1-SNAPSHOT.jar /test/jenkins.jar
+COPY target/jenkins-0.0.1-SNAPSHOT.jar /test/jenkins.jar
 
 EXPOSE 8080
 
