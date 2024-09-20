@@ -1,5 +1,3 @@
-
-
 FROM eclipse-temurin:17-jre
 
 WORKDIR /test

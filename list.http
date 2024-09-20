@@ -1,0 +1,3 @@
+GET http://api.odcloud.kr/api/15048756/v1/uddi:d21a949e-4032-4dee-9829-9c595ba8a46a?page=1&perPage=10
+Authorization: Infuser DBKiJADumxo+/tkG+OX4x34MUphfuDcylqMANJooZFIM94EU2/ckhcSf+Zepie8vos9WuokM0XPZmHXaAyRCeQ==
+Content-Type: application/json
